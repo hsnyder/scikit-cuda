@@ -17,7 +17,7 @@ from .cufft import CUFFT_COMPATIBILITY_NATIVE, \
      CUFFT_COMPATIBILITY_FFTW_ASYMMETRIC, \
      CUFFT_COMPATIBILITY_FFTW_ALL
 from . import cudart
-from . import misc
+from . import misc2
 
 class Plan:
     """
